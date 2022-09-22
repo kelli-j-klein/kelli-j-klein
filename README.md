@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelli Klein
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to expand my knowledge in tech
 
 <!---
